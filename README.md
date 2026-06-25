@@ -3,9 +3,9 @@
   <tr valign="middle">
     <td width="55%" align="left" style="border: none;">
       <h1>Hi 👋, I'm <span style="color: #ff2c6d;">Vivek Joy</span></h1>
-      <h3>Data Scientist | AI/ML Engineer | GenAI Developer</h3>
+      <h3>Data Scientist | VLM &amp; LLM Specialist | AI/ML Edge Engineer</h3>
       <p>
-        Results-driven Data Scientist & AI Engineer with 4+ years of experience designing and deploying predictive models, data pipelines, and machine learning solutions. Specialized in translating raw datasets into actionable business insights, building robust statistical models, and implementing production-grade ML pipelines.
+        Results-driven Data Scientist &amp; Edge AI Engineer with 4+ years of experience designing and deploying predictive models, VLMs/LLMs, and computer vision systems on NVIDIA Jetson &amp; ARM edge devices. Specialized in edge optimizations (TensorRT, CUDA, model quantization), RAG pipelines, and scalable statistical analysis workflows.
       </p>
       <br />
       <!-- Social Badges -->
@@ -42,19 +42,22 @@
 <img src="./badge_spark.svg" alt="Spark" />&nbsp;
 <img src="./badge_kafka.svg" alt="Kafka" />
 
-### 🧠 Machine Learning & Deep Learning
+### 🧠 GenAI, VLM & LLM
+<img src="./badge_vlm.svg" alt="VLM & LLM Specialist" />&nbsp;
+<img src="./badge_langchain.svg" alt="LangChain" />&nbsp;
+<img src="./badge_mlflow.svg" alt="mlflow" />&nbsp;
+<img src="./badge_dvc.svg" alt="DVC" />&nbsp;
+<img src="./badge_fastapi.svg" alt="FastAPI" />
+
+### 🔥 Edge AI & Computer Vision
+<img src="./badge_jetson.svg" alt="NVIDIA Jetson" />&nbsp;
 <img src="./badge_pytorch.svg" alt="PyTorch" />&nbsp;
 <img src="./badge_tensorflow.svg" alt="TensorFlow" />&nbsp;
 <img src="./badge_opencv.svg" alt="OpenCV" />&nbsp;
 <img src="./badge_cuda.svg" alt="CUDA" />&nbsp;
-<img src="./badge_tensorrt.svg" alt="TensorRT" />
-
-### ⚙️ MLOps, Cloud & DevOps
-<img src="./badge_aws.svg" alt="AWS" />&nbsp;
+<img src="./badge_tensorrt.svg" alt="TensorRT" />&nbsp;
 <img src="./badge_docker.svg" alt="Docker" />&nbsp;
-<img src="./badge_mlflow.svg" alt="mlflow" />&nbsp;
-<img src="./badge_dvc.svg" alt="DVC" />&nbsp;
-<img src="./badge_fastapi.svg" alt="FastAPI" />&nbsp;
+<img src="./badge_aws.svg" alt="AWS" />&nbsp;
 <img src="./badge_linux.svg" alt="Linux" />&nbsp;
 <img src="./badge_golang.svg" alt="Golang" />&nbsp;
 <img src="./badge_piglatin.svg" alt="Pig Latin" />
@@ -192,7 +195,7 @@
       <img src="https://streak-stats.demolab.com?user=vivek97vivu&theme=tokyonight" width="100%" />
     </td>
     <td width="34%" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek97vivu&layout=compact&theme=tokyonight" width="100%" />
+      <img src="./top_languages.svg" width="100%" />
     </td>
   </tr>
 </table>
