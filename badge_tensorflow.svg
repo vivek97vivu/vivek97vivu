@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="32" viewBox="0 0 125 32">
+  <rect width="123" height="30" x="1" y="1" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  <g transform="translate(10, 7)">
+    <path d="M8 0L1 4v8l7 4 7-4V4L8 0zm0 2.3l5 2.9v5.6l-5 2.9-5-2.9V5.2l5-2.9z" fill="#FF6F00" />
+  </g>
+  <text x="34" y="20" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">TensorFlow</text>
+</svg>
