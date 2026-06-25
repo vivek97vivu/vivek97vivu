@@ -38,7 +38,12 @@
 <img src="./badge_docker.svg" alt="Docker" />&nbsp;
 <img src="./badge_mlflow.svg" alt="mlflow" />&nbsp;
 <img src="./badge_dvc.svg" alt="DVC" />&nbsp;
-<img src="./badge_linux.svg" alt="Linux" />
+<img src="./badge_linux.svg" alt="Linux" />&nbsp;
+<br />
+<img src="./badge_r.svg" alt="R" />&nbsp;
+<img src="./badge_jupyter.svg" alt="Jupyter Notebook" />&nbsp;
+<img src="./badge_golang.svg" alt="Golang" />&nbsp;
+<img src="./badge_piglatin.svg" alt="Pig Latin" />
 
 <br />
 
@@ -109,7 +114,7 @@
 ## 📅 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vivek97vivu/vivek97vivu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Graph Snake" />
+  <img src="./github-contribution-grid-snake.svg" width="100%" alt="Contribution Graph Snake" />
 </div>
 
 <br />

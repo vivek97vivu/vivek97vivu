@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="32" viewBox="0 0 110 32">
+  <rect width="108" height="30" x="1" y="1" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  <g transform="translate(10, 7)">
+    <path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zm0 10a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" fill="#FF80AB" />
+  </g>
+  <text x="34" y="20" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">Pig Latin</text>
+</svg>
