@@ -114,10 +114,10 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr valign="top">
     <td width="33%" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=vivek97vivu&show_icons=true&theme=tokyonight" width="100%" />
+      <img src="./github_stats.svg" width="100%" />
     </td>
     <td width="33%" style="border: none; padding: 5px;">
-      <img src="https://streak-stats.demolab.com?user=vivek97vivu&theme=tokyonight" width="100%" />
+      <img src="./streak_stats.svg" width="100%" />
     </td>
     <td width="34%" style="border: none; padding: 5px;">
       <img src="./top_languages.svg" width="100%" />

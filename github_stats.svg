@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="165" viewBox="0 0 310 165">
+  <defs>
+    <linearGradient id="grade-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    @keyframes pulse-ring {
+      0% { r: 24; opacity: 0.4; }
+      50% { r: 28; opacity: 0.8; }
+      100% { r: 24; opacity: 0.4; }
+    }
+    @keyframes fade-in {
+      from { opacity: 0; transform: translateY(5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes draw-progress {
+      from { stroke-dashoffset: 150; }
+      to { stroke-dashoffset: 35; }
+    }
+    .stat-val { fill: #38bdf8; font-weight: bold; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica; opacity: 0; animation: fade-in 0.8s ease-out forwards; }
+    .stat-label { fill: #c9d1d9; font-size: 11px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica; }
+    .grade-text { font-size: 22px; font-weight: 800; fill: url(#grade-grad); text-anchor: middle; filter: url(#glow); font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica; opacity: 0; animation: fade-in 1s 0.5s ease-out forwards; }
+    .grade-ring-back { fill: none; stroke: #161b22; stroke-width: 4; }
+    .grade-ring-front { fill: none; stroke: url(#grade-grad); stroke-width: 4; stroke-linecap: round; stroke-dasharray: 150; stroke-dashoffset: 150; animation: draw-progress 1.5s ease-out forwards; }
+    .grade-pulse { fill: none; stroke: #818cf8; stroke-width: 1; opacity: 0.5; animation: pulse-ring 2.5s infinite ease-in-out; }
+  </style>
+  
+  <rect width="308" height="163" x="1" y="1" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  
+  <text x="20" y="24" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica" font-size="14" font-weight="600">GitHub Stats</text>
+  
+  <!-- Stats List -->
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica" font-size="11" transform="translate(20, 42)">
+    <!-- Star -->
+    <g transform="translate(0, 0)">
+      <path d="M6 0L8.2 4.4L13 5.1L9.5 8.5L10.3 13.3L6 11L1.7 13.3L2.5 8.5L0 5.1L4.8 4.4L6 0Z" fill="#eab308" transform="scale(0.85) translate(0, 2)" />
+      <text x="18" y="12" class="stat-label">Total Stars Earned:</text>
+      <text x="145" y="12" class="stat-val" style="animation-delay: 0.1s;">24</text>
+    </g>
+    <!-- Commits -->
+    <g transform="translate(0, 22)">
+      <path d="M6 2C3.8 2 2 3.8 2 6c0 1.2.5 2.3 1.4 3l-1.4 1.4L3.4 11.8l1.4-1.4C5.7 10.9 6.8 11 8 11c2.2 0 4-1.8 4-4s-1.8-4-4-4Z" fill="#8b949e" transform="scale(0.9) translate(0, 2)" />
+      <text x="18" y="12" class="stat-label">Total Commits (last year):</text>
+      <text x="145" y="12" class="stat-val" style="animation-delay: 0.2s;">750</text>
+    </g>
+    <!-- PRs -->
+    <g transform="translate(0, 44)">
+      <path d="M5 1.5A1.5 1.5 0 0 1 6.5 0A1.5 1.5 0 0 1 8 1.5c0 .65-.42 1.2-1 1.4v2.2A2.4 2.4 0 0 0 9.4 7.5h.7c.2-.5.7-.9 1.4-.9a1.5 1.5 0 1 1 0 3c-.7 0-1.2-.4-1.4-.9h-.7A3.9 3.9 0 0 1 5.5 5.1V2.9A1.5 1.5 0 0 1 5 1.5Z" fill="#8b949e" transform="scale(1.1) translate(0, 1)" />
+      <text x="18" y="12" class="stat-label">Total PRs:</text>
+      <text x="145" y="12" class="stat-val" style="animation-delay: 0.3s;">150</text>
+    </g>
+    <!-- Issues -->
+    <g transform="translate(0, 66)">
+      <circle cx="6" cy="6" r="5" fill="none" stroke="#8b949e" stroke-width="1.5" transform="translate(0, 2)" />
+      <circle cx="6" cy="6" r="1" fill="#8b949e" transform="translate(0, 2)" />
+      <text x="18" y="12" class="stat-label">Total Issues:</text>
+      <text x="145" y="12" class="stat-val" style="animation-delay: 0.4s;">75</text>
+    </g>
+    <!-- Contributed -->
+    <g transform="translate(0, 88)">
+      <rect x="1" y="2" width="10" height="10" rx="1.5" fill="none" stroke="#8b949e" stroke-width="1.5" transform="translate(0, 2)" />
+      <path d="M3 8l2 2 4-4" fill="none" stroke="#8b949e" stroke-width="1.5" transform="translate(0, 2)" />
+      <text x="18" y="12" class="stat-label">Contributed to (last year):</text>
+      <text x="145" y="12" class="stat-val" style="animation-delay: 0.5s;">12</text>
+    </g>
+  </g>
+  
+  <!-- Grade Circle -->
+  <g transform="translate(245, 95)">
+    <circle cx="0" cy="0" r="26" class="grade-pulse" />
+    <circle cx="0" cy="0" r="26" class="grade-ring-back" />
+    <circle cx="0" cy="0" r="26" class="grade-ring-front" />
+    <text x="0" y="8" class="grade-text">A+</text>
+  </g>
+</svg>
