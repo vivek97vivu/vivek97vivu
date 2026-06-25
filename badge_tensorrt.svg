@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="32" viewBox="0 0 115 32">
+  <rect width="113" height="30" x="1" y="1" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  <g transform="translate(10, 7)">
+    <path d="M0 0h16v3H0V0zm0 5h16v3H0V5zm0 5h16v3H0v-3zm0 5h16v1H0v-1z" fill="#76B900" />
+  </g>
+  <text x="34" y="20" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">TensorRT</text>
+</svg>

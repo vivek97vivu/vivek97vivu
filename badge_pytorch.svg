@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="32" viewBox="0 0 105 32">
+  <rect width="103" height="30" x="1" y="1" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  <g transform="translate(10, 7)">
+    <path d="M6.36 0L0 5.48h2.89L0 12.87l6.36 5.13 6.36-5.13-2.89-7.39H12.7L6.36 0z" fill="#EE4C2C" transform="scale(1.0) translate(2, 0)" />
+  </g>
+  <text x="34" y="20" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">PyTorch</text>
+</svg>

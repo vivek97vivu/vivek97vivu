@@ -1,100 +1,123 @@
-<div align="center">
-  <!-- Animated AI thinking banner -->
-  <img src="./header.svg" width="100%" alt="Vivek Joy's AI & Computer Vision Profile Banner" />
-</div>
+<!-- Two-column header layout -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr valign="middle">
+    <td width="55%" align="left" style="border: none;">
+      <h1>Hi 👋, I'm <span style="color: #ff2c6d;">Vivek Joy</span></h1>
+      <h3>AI Engineer | Computer Vision | Deep Learning</h3>
+      <p>Passionate about building real-time AI applications that solve real-world problems.</p>
+      <br />
+      <!-- Social Badges -->
+      <a href="https://www.linkedin.com/in/vivek-joy97" target="_blank">
+        <img src="./linkedin.svg" alt="LinkedIn" valign="middle" />
+      </a>
+      &nbsp;
+      <a href="mailto:vivekjoy97@gmail.com" target="_blank">
+        <img src="./gmail.svg" alt="Gmail" valign="middle" />
+      </a>
+      &nbsp;
+      <a href="#" target="_blank">
+        <img src="./portfolio.svg" alt="Portfolio" valign="middle" />
+      </a>
+    </td>
+    <td width="45%" align="right" style="border: none;">
+      <img src="./banner.png" width="100%" alt="AI Laptop Banner" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<div align="center">
-  <h1>Hi 👋, I'm Vivek Joy</h1>
-  <h3>🚀 AI Engineer | Computer Vision | Deep Learning Enthusiast</h3>
-  
-  <p align="center">
-    Passionate about building real-time AI applications that solve real-world problems. Specialized in deploying optimized computer vision models on edge devices and managing end-to-end MLOps pipelines.
-  </p>
-
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/vivek-joy97" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vivekjoy97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
+<!-- Tech Stack Section -->
 ## 🛠 Tech Stack
 
+<img src="./badge_python.svg" alt="Python" />&nbsp;
+<img src="./badge_pytorch.svg" alt="PyTorch" />&nbsp;
+<img src="./badge_opencv.svg" alt="OpenCV" />&nbsp;
+<img src="./badge_cuda.svg" alt="CUDA" />&nbsp;
+<img src="./badge_tensorrt.svg" alt="TensorRT" />&nbsp;
+<img src="./badge_docker.svg" alt="Docker" />&nbsp;
+<img src="./badge_mlflow.svg" alt="mlflow" />&nbsp;
+<img src="./badge_dvc.svg" alt="DVC" />&nbsp;
+<img src="./badge_linux.svg" alt="Linux" />
+
+<br />
+
+<!-- Pinned Repositories Section -->
+## 🚀 Pinned Repositories
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" style="border: none; padding: 5px;">
+      <a href="https://github.com/vivek97vivu/fire-smoke-detection" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=fire-smoke-detection&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+    <td width="50%" style="border: none; padding: 5px;">
+      <a href="https://github.com/vivek97vivu/rf-detr-spill-detection" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=rf-detr-spill-detection&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: none; padding: 5px;">
+      <a href="https://github.com/vivek97vivu/ppe-detection" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=ppe-detection&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+    <td width="50%" style="border: none; padding: 5px;">
+      <a href="https://github.com/vivek97vivu/mlflow-dvc-pipeline" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=mlflow-dvc-pipeline&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: none; padding: 5px;">
+      <a href="https://github.com/vivek97vivu/yolo11-custom-training" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=yolo11-custom-training&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+    <td width="50%" style="border: none; padding: 5px;">
+      <a href="https://github.com/vivek97vivu/computer-vision-utils" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=computer-vision-utils&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Stats and Analytics Section -->
+## 📊 GitHub Analytics
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr valign="top">
+    <td width="33%" style="border: none; padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=vivek97vivu&show_icons=true&theme=tokyonight" width="100%" />
+    </td>
+    <td width="33%" style="border: none; padding: 5px;">
+      <img src="https://streak-stats.demolab.com?user=vivek97vivu&theme=tokyonight" width="100%" />
+    </td>
+    <td width="34%" style="border: none; padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek97vivu&layout=compact&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Contribution Graph Section -->
+## 📅 Contribution Graph
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-4.10-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/CUDA-13-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/TensorRT-Enabled-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT" />
-  <br />
-  <img src="https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MLflow-Latest-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/DVC-Enabled-9CF?style=for-the-badge&logo=data-version-control&logoColor=white" alt="DVC" />
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
-
----
-
-## 🔥 Featured Projects
-
-### 🚀 [RF-DETR-Spill-Detection](https://github.com/vivek97vivu/RF-DETR-Spill-Detection)
-*Real-time fluid/oil spill detection leveraging RF-DETR architecture.*
-- **Model**: RF-DETR trained on customized industrial spill datasets.
-- **Tech Stack**: PyTorch, Python, OpenCV, Roboflow.
-- **Performance**: High precision detection with real-time alerting system for compliance.
-
-### 🚀 [Fire-Smoke-Detection](https://github.com/vivek97vivu/Fire-Smoke-Detection)
-*High-accuracy hazard detection systems for industrial safety.*
-- **Model**: Custom YOLOv8 / YOLOv11 detectors.
-- **Tech Stack**: PyTorch, OpenCV, CUDA.
-- **Features**: Early smoke & fire detection in varying illumination conditions.
-
-### 🚀 [YOLO-PPE-Detection](https://github.com/vivek97vivu/YOLO-PPE-Detection)
-*Automated personal protective equipment compliance system.*
-- **Model**: YOLOv8-based multi-class detector (Helmets, Vests, Gloves).
-- **Tech Stack**: PyTorch, Python, CUDA.
-- **Goal**: Real-time worker safety monitoring in manufacturing environments.
-
-### 🚀 [MLflow-DVC-Pipeline](https://github.com/vivek97vivu/MLflow-DVC-Pipeline)
-*Production-ready machine learning operations framework.*
-- **Purpose**: Experiment tracking and dataset version control.
-- **Tech Stack**: MLflow, DVC, Git, Python.
-- **Highlights**: Full reproducibility, data version lineage, and centralized model registry.
-
----
-
-## 📊 GitHub Analytics & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek97vivu&theme=onedark" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/vivek97vivu/vivek97vivu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Graph Snake" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek97vivu&show_icons=true&theme=tokyonight" height="180px" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=vivek97vivu&theme=tokyonight" height="180px" alt="Streak Stats" />
-</div>
+<!-- Recent Activity Section -->
+## 🔔 Recent Activity
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek97vivu&layout=compact&theme=tokyonight" height="180px" alt="Top Languages" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/vivek97vivu/vivek97vivu/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" />
-</div>
+<!--START_SECTION:activity-->
+* 🚀 Pushed to **rf-detr-spill-detection** 2 hours ago
+  * `a1b2c3d` Update README and results
+<!--END_SECTION:activity-->

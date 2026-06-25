@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="32" viewBox="0 0 100 32">
+  <rect width="98" height="30" x="1" y="1" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  <g transform="translate(10, 7)">
+    <path d="M1 4h2v2H1V4zm3 0h2v2H4V4zm3 0h2v2H7V4zm3 0h2v2h-2V4zm-9 3h2v2H1V7zm3 0h2v2H4V7zm3 0h2v2H7V7zm3 0h2v2h-2V7zm-6 3h8c0 2-2 3-4 3s-4-1-4-3z" fill="#2496ED" transform="translate(0, 1)" />
+  </g>
+  <text x="34" y="20" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">Docker</text>
+</svg>
