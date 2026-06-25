@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="32" viewBox="0 0 95 32">
+  <rect width="93" height="30" x="1" y="1" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  <g transform="translate(10, 7)">
+    <rect width="14" height="14" rx="2" fill="#150458" /><path d="M3 3h3v8H3V3zm5 0h3v4H8V3z" fill="#ffca28" />
+  </g>
+  <text x="34" y="20" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">Pandas</text>
+</svg>

@@ -3,9 +3,9 @@
   <tr valign="middle">
     <td width="55%" align="left" style="border: none;">
       <h1>Hi 👋, I'm <span style="color: #ff2c6d;">Vivek Joy</span></h1>
-      <h3>AI/ML Engineer | GenAI & LLM Engineer | Data Scientist</h3>
+      <h3>Data Scientist | AI/ML Engineer | GenAI Developer</h3>
       <p>
-        Results-driven AI/ML Engineer with 4+ years of experience designing and deploying production-grade machine learning, deep learning, and large language model (LLM) solutions. Proven expertise in GenAI, RAG pipelines, computer vision, NLP, and cloud-based AI deployments on AWS.
+        Results-driven Data Scientist & AI Engineer with 4+ years of experience designing and deploying predictive models, data pipelines, and machine learning solutions. Specialized in translating raw datasets into actionable business insights, building robust statistical models, and implementing production-grade ML pipelines.
       </p>
       <br />
       <!-- Social Badges -->
@@ -32,32 +32,32 @@
 <!-- Tech Stack Section -->
 ## 🛠 Tech Stack
 
-### 💻 Languages & Environments
+### 📊 Data Science, Statistics & Analytics
 <img src="./badge_python.svg" alt="Python" />&nbsp;
+<img src="./badge_sql.svg" alt="SQL" />&nbsp;
 <img src="./badge_r.svg" alt="R" />&nbsp;
-<img src="./badge_golang.svg" alt="Golang" />&nbsp;
+<img src="./badge_pandas.svg" alt="Pandas" />&nbsp;
 <img src="./badge_jupyter.svg" alt="Jupyter" />&nbsp;
-<img src="./badge_linux.svg" alt="Linux" />&nbsp;
-<img src="./badge_piglatin.svg" alt="Pig Latin" />
+<img src="./badge_powerbi.svg" alt="Power BI" />&nbsp;
+<img src="./badge_spark.svg" alt="Spark" />&nbsp;
+<img src="./badge_kafka.svg" alt="Kafka" />
 
-### 🧠 GenAI & MLOps
-<img src="./badge_langchain.svg" alt="LangChain" />&nbsp;
-<img src="./badge_mlflow.svg" alt="mlflow" />&nbsp;
-<img src="./badge_dvc.svg" alt="DVC" />&nbsp;
-<img src="./badge_fastapi.svg" alt="FastAPI" />
-
-### 🔥 Machine Learning & Computer Vision
+### 🧠 Machine Learning & Deep Learning
 <img src="./badge_pytorch.svg" alt="PyTorch" />&nbsp;
 <img src="./badge_tensorflow.svg" alt="TensorFlow" />&nbsp;
 <img src="./badge_opencv.svg" alt="OpenCV" />&nbsp;
 <img src="./badge_cuda.svg" alt="CUDA" />&nbsp;
-<img src="./badge_tensorrt.svg" alt="TensorRT" />&nbsp;
-<img src="./badge_docker.svg" alt="Docker" />&nbsp;
-<img src="./badge_aws.svg" alt="AWS" />
+<img src="./badge_tensorrt.svg" alt="TensorRT" />
 
-### 📊 Data Engineering
-<img src="./badge_kafka.svg" alt="Kafka" />&nbsp;
-<img src="./badge_spark.svg" alt="Spark" />
+### ⚙️ MLOps, Cloud & DevOps
+<img src="./badge_aws.svg" alt="AWS" />&nbsp;
+<img src="./badge_docker.svg" alt="Docker" />&nbsp;
+<img src="./badge_mlflow.svg" alt="mlflow" />&nbsp;
+<img src="./badge_dvc.svg" alt="DVC" />&nbsp;
+<img src="./badge_fastapi.svg" alt="FastAPI" />&nbsp;
+<img src="./badge_linux.svg" alt="Linux" />&nbsp;
+<img src="./badge_golang.svg" alt="Golang" />&nbsp;
+<img src="./badge_piglatin.svg" alt="Pig Latin" />
 
 <br />
 
