@@ -70,38 +70,26 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" style="border: none; padding: 5px;">
-      <a href="https://github.com/vivek97vivu/fire-smoke-detection" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=fire-smoke-detection&theme=tokyonight" width="100%" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=fire-smoke-detection&theme=tokyonight" width="100%" />
     </td>
     <td width="50%" style="border: none; padding: 5px;">
-      <a href="https://github.com/vivek97vivu/rf-detr-spill-detection" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=rf-detr-spill-detection&theme=tokyonight" width="100%" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=rf-detr-spill-detection&theme=tokyonight" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%" style="border: none; padding: 5px;">
-      <a href="https://github.com/vivek97vivu/ppe-detection" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=ppe-detection&theme=tokyonight" width="100%" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=ppe-detection&theme=tokyonight" width="100%" />
     </td>
     <td width="50%" style="border: none; padding: 5px;">
-      <a href="https://github.com/vivek97vivu/mlflow-dvc-pipeline" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=mlflow-dvc-pipeline&theme=tokyonight" width="100%" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=mlflow-dvc-pipeline&theme=tokyonight" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%" style="border: none; padding: 5px;">
-      <a href="https://github.com/vivek97vivu/yolo11-custom-training" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=yolo11-custom-training&theme=tokyonight" width="100%" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=yolo11-custom-training&theme=tokyonight" width="100%" />
     </td>
     <td width="50%" style="border: none; padding: 5px;">
-      <a href="https://github.com/vivek97vivu/computer-vision-utils" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=computer-vision-utils&theme=tokyonight" width="100%" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=computer-vision-utils&theme=tokyonight" width="100%" />
     </td>
   </tr>
 </table>
