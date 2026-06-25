@@ -22,7 +22,7 @@
       </a>
     </td>
     <td width="45%" align="right" style="border: none;">
-      <img src="./banner.png" width="100%" alt="AI Laptop Banner" />
+      <a><img src="./banner.png" width="100%" alt="AI Laptop Banner" /></a>
     </td>
   </tr>
 </table>
@@ -33,34 +33,34 @@
 ## 🛠 Tech Stack
 
 ### 📊 Data Science, Statistics & Analytics
-<img src="./badge_python.svg" alt="Python" />&nbsp;
-<img src="./badge_sql.svg" alt="SQL" />&nbsp;
-<img src="./badge_r.svg" alt="R" />&nbsp;
-<img src="./badge_pandas.svg" alt="Pandas" />&nbsp;
-<img src="./badge_jupyter.svg" alt="Jupyter" />&nbsp;
-<img src="./badge_powerbi.svg" alt="Power BI" />&nbsp;
-<img src="./badge_spark.svg" alt="Spark" />&nbsp;
-<img src="./badge_kafka.svg" alt="Kafka" />
+<a><img src="./badge_python.svg" alt="Python" /></a>&nbsp;
+<a><img src="./badge_sql.svg" alt="SQL" /></a>&nbsp;
+<a><img src="./badge_r.svg" alt="R" /></a>&nbsp;
+<a><img src="./badge_pandas.svg" alt="Pandas" /></a>&nbsp;
+<a><img src="./badge_jupyter.svg" alt="Jupyter" /></a>&nbsp;
+<a><img src="./badge_powerbi.svg" alt="Power BI" /></a>&nbsp;
+<a><img src="./badge_spark.svg" alt="Spark" /></a>&nbsp;
+<a><img src="./badge_kafka.svg" alt="Kafka" /></a>
 
 ### 🧠 GenAI, VLM & LLM
-<img src="./badge_vlm.svg" alt="VLM & LLM Specialist" />&nbsp;
-<img src="./badge_langchain.svg" alt="LangChain" />&nbsp;
-<img src="./badge_mlflow.svg" alt="mlflow" />&nbsp;
-<img src="./badge_dvc.svg" alt="DVC" />&nbsp;
-<img src="./badge_fastapi.svg" alt="FastAPI" />
+<a><img src="./badge_vlm.svg" alt="VLM & LLM Specialist" /></a>&nbsp;
+<a><img src="./badge_langchain.svg" alt="LangChain" /></a>&nbsp;
+<a><img src="./badge_mlflow.svg" alt="mlflow" /></a>&nbsp;
+<a><img src="./badge_dvc.svg" alt="DVC" /></a>&nbsp;
+<a><img src="./badge_fastapi.svg" alt="FastAPI" /></a>
 
 ### 🔥 Edge AI & Computer Vision
-<img src="./badge_jetson.svg" alt="NVIDIA Jetson" />&nbsp;
-<img src="./badge_pytorch.svg" alt="PyTorch" />&nbsp;
-<img src="./badge_tensorflow.svg" alt="TensorFlow" />&nbsp;
-<img src="./badge_opencv.svg" alt="OpenCV" />&nbsp;
-<img src="./badge_cuda.svg" alt="CUDA" />&nbsp;
-<img src="./badge_tensorrt.svg" alt="TensorRT" />&nbsp;
-<img src="./badge_docker.svg" alt="Docker" />&nbsp;
-<img src="./badge_aws.svg" alt="AWS" />&nbsp;
-<img src="./badge_linux.svg" alt="Linux" />&nbsp;
-<img src="./badge_golang.svg" alt="Golang" />&nbsp;
-<img src="./badge_piglatin.svg" alt="Pig Latin" />
+<a><img src="./badge_jetson.svg" alt="NVIDIA Jetson" /></a>&nbsp;
+<a><img src="./badge_pytorch.svg" alt="PyTorch" /></a>&nbsp;
+<a><img src="./badge_tensorflow.svg" alt="TensorFlow" /></a>&nbsp;
+<a><img src="./badge_opencv.svg" alt="OpenCV" /></a>&nbsp;
+<a><img src="./badge_cuda.svg" alt="CUDA" /></a>&nbsp;
+<a><img src="./badge_tensorrt.svg" alt="TensorRT" /></a>&nbsp;
+<a><img src="./badge_docker.svg" alt="Docker" /></a>&nbsp;
+<a><img src="./badge_aws.svg" alt="AWS" /></a>&nbsp;
+<a><img src="./badge_linux.svg" alt="Linux" /></a>&nbsp;
+<a><img src="./badge_golang.svg" alt="Golang" /></a>&nbsp;
+<a><img src="./badge_piglatin.svg" alt="Pig Latin" /></a>
 
 <br />
 
@@ -70,26 +70,26 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=fire-smoke-detection&theme=tokyonight" width="100%" />
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=fire-smoke-detection&theme=tokyonight" width="100%" /></a>
     </td>
     <td width="50%" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=rf-detr-spill-detection&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=ppe-detection&theme=tokyonight" width="100%" />
-    </td>
-    <td width="50%" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=mlflow-dvc-pipeline&theme=tokyonight" width="100%" />
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=rf-detr-spill-detection&theme=tokyonight" width="100%" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=yolo11-custom-training&theme=tokyonight" width="100%" />
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=ppe-detection&theme=tokyonight" width="100%" /></a>
     </td>
     <td width="50%" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=computer-vision-utils&theme=tokyonight" width="100%" />
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=mlflow-dvc-pipeline&theme=tokyonight" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: none; padding: 5px;">
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=yolo11-custom-training&theme=tokyonight" width="100%" /></a>
+    </td>
+    <td width="50%" style="border: none; padding: 5px;">
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=computer-vision-utils&theme=tokyonight" width="100%" /></a>
     </td>
   </tr>
 </table>
@@ -102,13 +102,13 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr valign="top">
     <td width="33%" style="border: none; padding: 5px;">
-      <img src="./github_stats.svg" width="100%" />
+      <a><img src="./github_stats.svg" width="100%" /></a>
     </td>
     <td width="33%" style="border: none; padding: 5px;">
-      <img src="./streak_stats.svg" width="100%" />
+      <a><img src="./streak_stats.svg" width="100%" /></a>
     </td>
     <td width="34%" style="border: none; padding: 5px;">
-      <img src="./top_languages.svg" width="100%" />
+      <a><img src="./top_languages.svg" width="100%" /></a>
     </td>
   </tr>
 </table>
@@ -119,7 +119,7 @@
 ## 📅 Contribution Graph
 
 <div align="center">
-  <img src="./github-contribution-grid-snake.svg" width="100%" alt="Contribution Graph Snake" />
+  <a><img src="./github-contribution-grid-snake.svg" width="100%" alt="Contribution Graph Snake" /></a>
 </div>
 
 <br />
