@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Vivek Joy
 
-<!--
-**vivek97vivu/vivek97vivu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Engineer | Computer Vision | Deep Learning
 
-Here are some ideas to get you started:
+I build real-time AI applications using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔥 YOLOv11 / YOLO26
+- 🎯 RF-DETR
+- 📹 OpenCV
+- ☁️ MLflow
+- 📦 DVC
+- 🐳 Docker
+- 🐍 Python
+- CUDA
+- TensorRT
+
+---
+
+## 🔥 Current Projects
+
+🚀 Spill Detection using RF-DETR
+
+🚀 Fire & Smoke Detection
+
+🚀 PPE Detection
+
+🚀 Drone Vision
+
+---
+
+## 🛠 Tech Stack
+
+Python • PyTorch • OpenCV • CUDA • TensorRT • Docker • Git • Linux
+
+---
+
+## 📫 Connect
+
+LinkedIn
+
+Portfolio
+
+Email
