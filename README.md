@@ -64,26 +64,6 @@
 
 <br />
 
-
-<!-- Publications Section -->
-## 📚 Publications
-
-* **Household Object Localiser and Advanced Home Security Device** (IEEE)
-  - Developed an assistive device combining YOLOv3 and Raspberry Pi for real-time household object localization and home security monitoring. Integrated camera module, GSM, and night vision for object detection and emergency alerts; built a companion Android app for real-time notifications. Achieved 83% detection accuracy with applications in elderly assistance and smart surveillance.
-  - *Technologies*: YOLOv3, Raspberry Pi, Python, C, OpenCV, Android, GSM Module
-
-<br>
-
-<!-- Education & Certifications Section -->
-## 🎓 Education & Certifications
-
-### Education
-* 🎓 **M.Sc. in Data Science** — Manipal Academy of Higher Education (Aug 2023 – Aug 2025) | 
-* 🎓 **B.Tech in Electronics & Communication Engineering** — Kerala Technological University (Aug 2016 – Oct 2020)
-
-
-<br />
-
 <!-- Pinned Repositories Section -->
 ## 🚀 Pinned Repositories
 
