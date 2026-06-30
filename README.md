@@ -48,7 +48,7 @@ I'm **Vivek Joy** — a results-driven **Data Scientist** and **Edge AI Engineer
 
 I specialize in **low-latency edge optimizations** (including TensorRT, CUDA, and model quantization) for NVIDIA Jetson and ARM platforms. I also architect robust **GenAI applications**, incorporating multi-document retrieval-augmented generation (RAG) pipelines, semantic routers, and scalable backend microservices. 
 
-I hold an **M.Sc. in Data Science** (CGPA: 9.6/10) and have published research in IEEE on Raspberry Pi and YOLOv3-based assistive systems.
+
 
 </td>
 <td width="40%" valign="top">
@@ -57,11 +57,11 @@ I hold an **M.Sc. in Data Science** (CGPA: 9.6/10) and have published research i
 
 ```yaml
 name:        Vivek Joy
-role:        AI/ML Edge Engineer
+role:        AI/ML Engineer
 company:     Algosium Software
 focus:       Edge AI · GenAI · CV
 experience:  4+ yrs in AI/ML & DS
-education:   M.Sc. Data Science (9.6 CGPA)
+education:   MBA. Data Science 
 edge_devs:   NVIDIA Jetson · ARM · RPi
 frameworks:  PyTorch · TensorRT · OpenCV
 mlops:       MLflow · DVC · Docker
