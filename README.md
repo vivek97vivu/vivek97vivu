@@ -73,23 +73,23 @@
       <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=fire-smoke-detection&theme=tokyonight" width="100%" /></a>
     </td>
     <td width="50%" style="border: none; padding: 5px;">
-      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=rf-detr-spill-detection&theme=tokyonight" width="100%" /></a>
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Spill_detction&theme=tokyonight" width="100%" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" style="border: none; padding: 5px;">
-      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=ppe-detection&theme=tokyonight" width="100%" /></a>
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Mandown_Detection&theme=tokyonight" width="100%" /></a>
     </td>
     <td width="50%" style="border: none; padding: 5px;">
-      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=mlflow-dvc-pipeline&theme=tokyonight" width="100%" /></a>
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=mlflow_trainig&theme=tokyonight" width="100%" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" style="border: none; padding: 5px;">
-      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=yolo11-custom-training&theme=tokyonight" width="100%" /></a>
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Motion-Detection&theme=tokyonight" width="100%" /></a>
     </td>
     <td width="50%" style="border: none; padding: 5px;">
-      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=computer-vision-utils&theme=tokyonight" width="100%" /></a>
+      <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Predective-Maintenance&theme=tokyonight" width="100%" /></a>
     </td>
   </tr>
 </table>
