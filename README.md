@@ -214,7 +214,7 @@ clouds:      AWS (Certified Practitioner)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek97vivu&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/vivek97vivu)
+<a><img src="./activity_graph.svg" width="100%" alt="Contribution Graph" /></a>
 
 </div>
 
