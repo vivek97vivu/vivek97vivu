@@ -48,8 +48,6 @@ I'm **Vivek Joy** — a results-driven **Data Scientist** and **Edge AI Engineer
 
 I specialize in **low-latency edge optimizations** (including TensorRT, CUDA, and model quantization) for NVIDIA Jetson and ARM platforms. I also architect robust **GenAI applications**, incorporating multi-document retrieval-augmented generation (RAG) pipelines, semantic routers, and scalable backend microservices. 
 
-
-
 </td>
 <td width="40%" valign="top">
 
@@ -200,17 +198,16 @@ clouds:      AWS (Certified Practitioner)
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek97vivu&theme=github_dark" width="100%" alt="profile summary" />
-
-<br/>
-
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center" style="border: none; padding: 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek97vivu&theme=github_dark" width="100%" alt="repos per language" />
+  <tr valign="top">
+    <td width="33%" style="border: none; padding: 5px;">
+      <a><img src="./github_stats.svg" width="100%" /></a>
     </td>
-    <td width="50%" align="center" style="border: none; padding: 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivek97vivu&theme=github_dark&utcOffset=5.5" width="100%" alt="productive time" />
+    <td width="33%" style="border: none; padding: 5px;">
+      <a><img src="./streak_stats.svg" width="100%" /></a>
+    </td>
+    <td width="34%" style="border: none; padding: 5px;">
+      <a><img src="./top_languages.svg" width="100%" /></a>
     </td>
   </tr>
 </table>
