@@ -246,9 +246,9 @@ Developed an assistive YOLOv3 & Raspberry Pi device for real-time object detecti
 <td width="33%" valign="top" align="center">
 
 ### 🎓 Education & Academics
-🎓 **M.Sc. in Data Science** <br>
+🎓 **M.B.A in Data Science** <br>
 Manipal Academy of Higher Education (2023 – 2025) <br>
-*CGPA: 9.6 / 10* <br>
+
 🎓 **B.Tech in ECE** <br>
 Kerala Technological University (2016 – 2020)
 
