@@ -275,6 +275,5 @@ Kerala Technological University (2016 – 2020)
 
 **_Thanks for visiting — let's build the future of AI, together._**
 
-⭐️ If you find my work useful, consider [following](https://github.com/vivek97vivu) or starring a repo.
 
 </div>
