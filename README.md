@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-joy-6369a4131)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekjoy1997@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://vivek97vivu.github.io)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vivek97vivu&label=Profile%20Views&color=ff2c6d&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/vivek97vivu?label=Followers&style=for-the-badge&color=ff2c6d&logo=github)](https://github.com/vivek97vivu?tab=followers)
@@ -59,7 +59,7 @@ role:        AI/ML Engineer
 company:     Algosium Software
 focus:       Edge AI · GenAI · CV
 experience:  4+ yrs in AI/ML & DS
-education:   MBA. Data Science 
+education:   MBA in Data Science 
 edge_devs:   NVIDIA Jetson · ARM · RPi
 frameworks:  PyTorch · TensorRT · OpenCV
 mlops:       MLflow · DVC · Docker
@@ -108,13 +108,7 @@ clouds:      AWS (Certified Practitioner)
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="58" height="58" />
+  <img src="https://skillicons.dev/icons?i=py,docker,aws,kubernetes&perline=4" alt="Python | Docker | AWS | Kubernetes" height="58" />
 </div>
 
 <br/>
@@ -178,16 +172,68 @@ clouds:      AWS (Certified Practitioner)
 <!-- ============================================================ -->
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![fire-smoke-detection](https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=fire-smoke-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF)](https://github.com/vivek97vivu/fire-smoke-detection)
-[![Spill_detction](https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Spill_detction&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF)](https://github.com/vivek97vivu/Spill_detction)
-[![Mandown_Detection](https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Mandown_Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF)](https://github.com/vivek97vivu/Mandown_Detection)
-[![mlflow_trainig](https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=mlflow_trainig&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF)](https://github.com/vivek97vivu/mlflow_trainig)
-[![Motion-Detection](https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Motion-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF)](https://github.com/vivek97vivu/Motion-Detection)
-[![Predective-Maintenance](https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Predective-Maintenance&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF)](https://github.com/vivek97vivu/Predective-Maintenance)
-
-</div>
+<table align="center" border="0" cellpadding="6" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://github.com/vivek97vivu/jetson-agx-orin-vlm-benchmark">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=jetson-agx-orin-vlm-benchmark&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vivek97vivu/vlm_jetson-gemma4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=vlm_jetson-gemma4&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vivek97vivu/Blind-LLM-Agents">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Blind-LLM-Agents&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vivek97vivu/REA-Ghidra">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=REA-Ghidra&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vivek97vivu/fire-smoke-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=fire-smoke-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vivek97vivu/Spill_detction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Spill_detction&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vivek97vivu/Mandown_Detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Mandown_Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vivek97vivu/mlflow_trainig">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=mlflow_trainig&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vivek97vivu/Motion-Detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Motion-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vivek97vivu/Predective-Maintenance">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek97vivu&repo=Predective-Maintenance&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=ff2c6d&title_color=58A6FF" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -201,20 +247,20 @@ clouds:      AWS (Certified Practitioner)
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr valign="top">
     <td width="33%" style="border: none; padding: 5px;">
-      <a><img src="./github_stats.svg" width="100%" /></a>
+      <a href="https://github.com/vivek97vivu"><img src="./github_stats.svg" width="100%" /></a>
     </td>
     <td width="33%" style="border: none; padding: 5px;">
-      <a><img src="./streak_stats.svg" width="100%" /></a>
+      <a href="https://github.com/vivek97vivu"><img src="./streak_stats.svg" width="100%" /></a>
     </td>
     <td width="34%" style="border: none; padding: 5px;">
-      <a><img src="./top_languages.svg" width="100%" /></a>
+      <a href="https://github.com/vivek97vivu"><img src="./top_languages.svg" width="100%" /></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<a><img src="./activity_graph.svg" width="100%" alt="Contribution Graph" /></a>
+<a href="https://github.com/vivek97vivu"><img src="./activity_graph.svg" width="100%" alt="Contribution Graph" /></a>
 
 </div>
 
@@ -225,14 +271,14 @@ clouds:      AWS (Certified Practitioner)
 
 <div align="center">
 
-<a><img src="./github-contribution-grid-snake.svg" width="100%" alt="Contribution Graph Snake" /></a>
+<a href="https://github.com/vivek97vivu"><img src="./github-contribution-grid-snake.svg" width="100%" alt="Contribution Graph Snake" /></a>
 
 </div>
 
 ---
 
 <!-- ============================================================ -->
-<!--                     CONTENT & COMMUNITY                      -->
+<!--             PUBLICATIONS, EDUCATION & CERTIFICATIONS             -->
 <!-- ============================================================ -->
 ## 🎙️ Publications, Education & Certifications
 
